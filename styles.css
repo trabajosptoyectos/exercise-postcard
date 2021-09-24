@@ -45,3 +45,12 @@ body {
 .body-right input {
 	border-bottom: 2px solid grey;
 }
+
+.postcard-footer {
+	text-align: center;
+}
+
+.postcard-footer button {
+	padding: 1%;
+	background-color: grey;
+}
